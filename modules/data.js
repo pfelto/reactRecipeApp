@@ -1,8 +1,8 @@
-let data = [
+let Data = [
     {
         'name': 'Baked Salmon',
         'ingredients': [
-            { 'name': 'Salmon', 'amount': 1, 'measurement': '1 lb' },
+            { 'name': 'Salmon', 'amount': 1, 'measurement': 'lb' },
             { 'name': 'lemon', 'amount': 1, 'measurement': 'tsp' }
         ],
         'steps': [
@@ -13,7 +13,7 @@ let data = [
     {
         'name': 'Fish Taco',
         'ingredients': [
-            { 'name': 'Whitefish', 'amount': 1, 'measurement': '1 lb' },
+            { 'name': 'Whitefish', 'amount': 1, 'measurement': 'lb' },
             { 'name': 'Tortilla', 'amount': 3, 'measurement': 'Med' }
         ],
         'steps': [
