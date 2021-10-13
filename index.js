@@ -1,6 +1,6 @@
 import React from 'react'
 import { render } from 'react-dom'
-import Menu from './menu'
+import Menu from './modules/menu';
 import Data from './data'
 
 
